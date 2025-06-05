@@ -1,0 +1,50 @@
+My extentions
+Adblock Plus - free ad blocker
+Dark Reader
+FoxyProxy
+Wayback Machine
+
+Volume Master
+Surf Start etc..
+
+Check Permissions & Reviews
+
+Adblock Plus - free ad blocker have unnecessary permission as shown in the screenshot
+like "Read your browsing activity on all sites" and this extension doesn't work properly
+
+
+Dark Reader
+this extension also have  unnecessary permission like AdBlock Plus
+
+Suspicious extension
+
+A extension named " Surf Start" have suspicious flag like " This extension is not trusted by Enhanced Safe Browsing "
+it means "The extension may be malicious, violate policies, or pose privacy risks"
+
+Some extension have permission like "read your browsing history" but I trust these extenstion:
+ Rememberry - Translate and Memorize
+ Volume Master
+Pie Adblock - A Powerful Free Ad Blocke
+
+
+Removed extenstions
+
+Adblock Plus - free ad blocker
+Surf Start
+Dark Reader
+
+I restated the browser and I noticed better performance like faster loading, Reduced crashes/errors 
+
+How malicious extension can harm you
+
+Data Theft - Steals passwords, history and personal information.
+Fraudulent Financial Activity - Hijacks bank logins, cryptocurrency wallets and credit card information.
+Malware Infections - Installs spyware, ransomware or cryptominers.
+Ad Scam - Infests you with fake ads, pop-ups and redirects.
+Browser Hijacking - Changes your homepage, slows your PC!
+
+Action Taken 
+
+I removed unnecessary extension
+Reviewed unwanted permissions
+Researched how a malicious extension can harm you
